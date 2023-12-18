@@ -1,3 +1,7 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
 th,
 td {
     border: 1px solid #ccc;
@@ -8,7 +12,7 @@ td {
 table {
     border-collapse: collapse;
     width: 100%;
-    margin: 10px;
+    margin: 25px;
 }
 
 td {
