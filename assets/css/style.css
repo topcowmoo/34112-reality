@@ -7,10 +7,10 @@ td {
 
 table {
     border-collapse: collapse;
-    width: 60%;
-    margin: 30px;
+    width: 100%;
+    margin: 10px;
 }
 
 td {
-    text-align: center;
+    text-align: left;
 }
